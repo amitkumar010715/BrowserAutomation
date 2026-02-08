@@ -38,7 +38,7 @@ A2A_HOST=0.0.0.0
    ```
 2. Run the agent:
    ```bash
-   adk run root_agent
+   adk run my_agent
    ```
 3. Provide natural-language instructions, e.g.,
    ```
@@ -73,3 +73,4 @@ new_litellm/
 
 ## License
 This project is licensed under the MIT License.#
+
